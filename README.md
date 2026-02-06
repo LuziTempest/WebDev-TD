@@ -47,4 +47,4 @@ Buatlah sebuah website sederhana menggunakan framework **Flask** yang memiliki f
 
 ![Rimuru](img/image.png)
 ### Link Modul
-https://github.com/magang-bayucaraka-2026/modul-opencv.git
+https://github.com/LuziTempest/magang-bayu-web
