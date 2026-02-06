@@ -7,7 +7,7 @@
 ### Link Video Demo (Youtube)
 `...`
 
-#### Tugas 1
+### Tugas 1
 Struktur directory:
 ```
 D:
@@ -20,19 +20,20 @@ D:
 │       style.css
 │
 ├───img
-│       output.png
+│       image.png
 │
 └───template
         add.html
         home.html
         update.html
 ```
-Instal **Virtual Environment** dan instal library yang tercantum di dalam file `requirements.txt`. Selanjutnya, kerjakan **Tugas 2** di dalam virtual environment yang telah dibuat tersebut.<br>
+Instal **Virtual Environment** dan instal library yang tercantum di dalam file `requirements.txt`. Selanjutnya, kerjakan **Tugas 2** di dalam virtual environment yang telah dibuat tersebut.
+
 **Note**: Tambahkan folder `/venv` ke dalam file `.gitignore`.
 
-Masuk ke dalam virtual environment dan screenshot daftar library yang terinstal dengan perintah ```pip freeze```.
+**Masuk ke dalam virtual environment dan screenshot daftar library yang terinstal dengan perintah ```pip freeze```. Kirim hasilnya pada folder `/img`.** 
 
-#### Tugas 2
+### Tugas 2
 Buatlah sebuah website sederhana menggunakan framework **Flask** yang memiliki fitur-fitur berikut:
 - Menampilkan seluruh data mahasiswa.
 - Menambahkan data mahasiswa baru (terdiri dari: ID, Nama, NRP, dan Jurusan).
