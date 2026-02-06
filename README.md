@@ -43,7 +43,7 @@ Buatlah sebuah website sederhana menggunakan framework **Flask** yang memiliki f
 
 **Note**: Gunakan variable `array` (list) saja untuk penyimpanan data sementara (tidak perlu database).
 
-**Simpan screenshot dokumentasi hasil pada folder `img/`. Lakukan pengodingan pada file `app.py` dan file-file di dalam folder `template/`.**
+**Simpan screenshot dokumentasi hasil pada folder `img/`. Lakukan pengodingan pada file `app.py` dan file-file di dalam folder `template/`. Buat video demo terkait fitur yang ada dan kirim link youtubenya**
 
 ![Rimuru](img/image.png)
 ### Link Modul
