@@ -9,27 +9,27 @@ mahasiswa = [
 
 @app.route("/")
 def home():
-    # Tambahkan dan return fungsi disini
+    # Tambahkan algoritma dan return fungsi disini
     return render_template()
 
 @app.route("/data")
 def data():
-    # Tambahkan dan return fungsi disini
+    # Tambahkan algoritma dan return fungsi disini
     return jsonify()
 
 @app.route("/add", methods=["GET", "POST"])
 def add():
-    # Tambahkan dan return fungsi disini
+    # Tambahkan algoritma dan return fungsi disini
     return render_template()
 
 @app.route("/update/<int:id>")
 def update(id):
-    # Tambahkan dan return fungsi disini
+    # Tambahkan algoritma dan return fungsi disini
     return render_template()
 
 @app.route("/delete/<int:id>")
 def delete(id):
-    # Tambahkan dan return fungsi disini
+    # Tambahkan algoritma dan return fungsi disini
     return redirect()
 
 app.run(debug=True)
